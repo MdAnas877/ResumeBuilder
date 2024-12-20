@@ -1,0 +1,9 @@
+.navwidth{
+    max-width: 1500px;
+}
+.resume-logo{
+    font-size: 35px;
+    font-family: 'Bowlby One Sc', cursive;
+    justify-self: flex-start;
+    font-weight: bold;
+}

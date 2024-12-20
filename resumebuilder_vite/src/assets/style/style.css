@@ -1,0 +1,14 @@
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-wrapper {
+    position: relative; 
+    margin: 10px; 
+}
+
+.contain{
+    background-color: #679eb6;
+    height: 1200px;
+}
